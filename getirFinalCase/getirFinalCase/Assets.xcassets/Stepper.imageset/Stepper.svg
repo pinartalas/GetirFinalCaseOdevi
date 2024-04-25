@@ -1,0 +1,28 @@
+<svg width="37" height="100" viewBox="0 0 37 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_2182_137)">
+<g clip-path="url(#clip0_2182_137)">
+<rect width="32" height="32" transform="translate(2.34 1)" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.34 12C18.8923 12 19.34 12.4477 19.34 13V16L22.34 16C22.8923 16 23.34 16.4477 23.34 17C23.34 17.5523 22.8923 18 22.34 18H19.34V21C19.34 21.5523 18.8923 22 18.34 22C17.7877 22 17.34 21.5523 17.34 21V18H14.34C13.7877 18 13.34 17.5523 13.34 17C13.34 16.4477 13.7877 16 14.34 16L17.34 16V13C17.34 12.4477 17.7877 12 18.34 12Z" fill="#5D3EBC"/>
+<rect width="32" height="32" transform="translate(2.34 33)" fill="#5D3EBC"/>
+<path d="M19.8634 54H18.0529V49.043C18.0529 48.9062 18.0548 48.7383 18.0587 48.5391C18.0627 48.3359 18.0685 48.1289 18.0763 47.918C18.0841 47.7031 18.0919 47.5098 18.0998 47.3379C18.0568 47.3887 17.9689 47.4766 17.8361 47.6016C17.7072 47.7227 17.5861 47.832 17.4728 47.9297L16.4884 48.7207L15.6154 47.6309L18.3752 45.4336H19.8634V54Z" fill="white"/>
+<rect width="32" height="32" transform="translate(2.34 65)" fill="white"/>
+<path d="M24.4482 76.5H20.8482C20.8482 75.2573 19.841 74.25 18.5982 74.25C17.3555 74.25 16.3482 75.2573 16.3482 76.5H12.7482C12.5 76.5 12.2982 76.7018 12.2982 76.95V78.3C12.2982 78.5483 12.5 78.75 12.7482 78.75H13.1982L14.3547 86.787C14.432 87.3337 14.8962 87.7425 15.4482 87.75H21.6762C22.2335 87.7485 22.7052 87.3383 22.7832 86.787L23.9352 78.75H24.4482C24.6965 78.75 24.8982 78.5483 24.8982 78.3V76.95C24.8982 76.7018 24.6965 76.5 24.4482 76.5ZM17.0502 85.5315H16.9962C16.6392 85.5547 16.3295 85.2855 16.3032 84.9285L16.0152 80.8335C15.992 80.4765 16.2612 80.1667 16.6182 80.1405H16.6722C17.0292 80.1172 17.339 80.3865 17.3652 80.7435L17.6532 84.8385C17.6765 85.1955 17.4072 85.5052 17.0502 85.5315ZM20.8887 84.933C20.8625 85.29 20.5527 85.5592 20.1957 85.536H20.1417C19.7847 85.5098 19.5155 85.2 19.5387 84.843L19.8267 80.748C19.853 80.391 20.1627 80.1217 20.5197 80.145H20.5737C20.9307 80.1712 21.2 80.481 21.1767 80.838L20.8887 84.933ZM18.5982 75.6C19.0955 75.6 19.4982 76.0028 19.4982 76.5H17.6982C17.6982 76.0028 18.101 75.6 18.5982 75.6Z" fill="#5D3EBC"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_2182_137" x="0.339996" y="0" width="36" height="100" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="1" operator="erode" in="SourceAlpha" result="effect1_dropShadow_2182_137"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2182_137"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2182_137" result="shape"/>
+</filter>
+<clipPath id="clip0_2182_137">
+<rect x="2.34" y="1" width="32" height="96" rx="8" fill="white"/>
+</clipPath>
+</defs>
+</svg>
